@@ -1,0 +1,9 @@
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\obj\Debug\Projekt.FormMain.resources
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Kotowicz\Documents\Programowanie\C#\Projekt\Projekt\obj\Debug\Projekt.pdb
